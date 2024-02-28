@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jas Krrish Singh</h1>
+![Blue Modern Banner](https://github.com/jaskrrish/jaskrrish/assets/144443132/ae79c6b2-16f7-4e21-bca2-f8f3987498d0)
+
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaskrrish" alt="jaskrrish" /></a> </p>
