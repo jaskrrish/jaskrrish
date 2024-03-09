@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next-JS 14,Web3**
 
-- 👨‍💻 All of my projects are available at [https://jaskrrish.github.io/PortFolio_GDSC/index.html](https://jaskrrish.github.io/PortFolio_GDSC/index.html)
+- 👨‍💻 Visit my Portfolio website at:- [https://jaskrrish-portfolio.vercel.app](https://jaskrrish-portfolio.vercel.appl)
 
 - 💬 Ask me about **react js**
 
