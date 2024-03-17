@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Next-JS 14,Web3**
 
-- 👨‍💻 Visit my Portfolio website at:- [https://jaskrrish-portfolio.vercel.app](https://jaskrrish-portfolio.vercel.appl)
+- 👨‍💻 Visit my Portfolio website at:- [https://jaskrrish.vercel.app](https://jaskrrish.vercel.appl)
 
 - 💬 Ask me about **react js**
 
