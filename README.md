@@ -4,11 +4,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jaskrrish" alt="jaskrrish" /></a> </p>
 
-- 🌱 I’m currently learning **Next-JS 14,Web3**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻 Visit my Portfolio website at:- [https://jaskrrish.vercel.app](https://jaskrrish.vercel.appl)
 
-- 💬 Ask me about **react js**
+- 💬 Ask me about **Next-JS**
 
 - 📫 How to reach me **jashehz@gmail.com**
 
