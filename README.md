@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DevOps, Web3**
 - 💬 Ask me about **Full-Stack Development**
-- 👨‍💻 Visit my Portfolio website at: [PortFolio](https://jaskrrish.vercel.app)
+- 👨‍💻 Visit my Portfolio website at: [PortFolio](https://www.jaskrrish.me)
 - 📫 How to reach me [Mail](jashehz@gmail.com)
 
 ## 🌐 Socials:
